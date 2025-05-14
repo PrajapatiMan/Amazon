@@ -1,2 +1,2 @@
-# Amazon Clone Website 👾 ✨ ⬇️
+# Amazon Clone Website 
 <img src="amazon.png"></img>
